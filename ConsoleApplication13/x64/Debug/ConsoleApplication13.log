@@ -1,0 +1,11 @@
+﻿  ConsoleApplication13.cpp
+C:\Users\ac\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(23,40): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\ac\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(54,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ac\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(57,59): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+C:\Users\ac\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(57,59): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+C:\Users\ac\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(57,63): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\ac\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(94,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ac\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(96,74): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+C:\Users\ac\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(96,74): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+C:\Users\ac\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(96,78): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  ConsoleApplication13.vcxproj -> C:\Users\ac\source\repos\ConsoleApplication13\x64\Debug\ConsoleApplication13.exe
